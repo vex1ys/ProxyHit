@@ -1,7 +1,7 @@
 # ProxyHit
 
 
-> Simple Proxy Grabber
+**Simple Proxy ✨ G r a b b e r ✨**
 
 ![Preview](https://github.com/vex1ys/ProxyHit/blob/main/hgf.PNG)
 
